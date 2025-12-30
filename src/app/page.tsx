@@ -13,12 +13,13 @@ export default function Home() {
     <Container>
       <Hero />
       <SectionTitle
-        preTitle="Nextly Benefits"
-        title=" Why should you use this landing page"
+        preTitle="Xlop Benefits"
+        title="Proč používat Xlop.cz pro nasazení aplikací"
       >
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
+        Xlop.cz je jednoduché a spolehlivé řešení pro deploy
+        vašich aplikací přes Coolify. Nasazení je rychlé,
+        bezpečné a všechny projekty máte pod kontrolou - bez
+        zytečných komplikací.
       </SectionTitle>
 
       <Benefits data={benefitOne} />
